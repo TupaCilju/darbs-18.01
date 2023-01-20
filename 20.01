@@ -1,0 +1,99 @@
+#include <iostream>
+using namespace std; 
+//
+//int main() {
+//	int a = 0;
+//	int b = a;
+//	do {
+//
+//		cout << a << " "<< b << endl;
+//		a = a + 1;
+//		b = a + a;
+//	} while (a < 101);
+//	return 0;	
+//
+//
+//}
+
+
+
+
+
+//
+//int main()
+//
+//{
+//
+//	int number;
+//
+//	cout << "Enter a number: ";
+//
+//	cin >> number;
+//
+//	if (number > 0 && number <= 20) {
+//
+//		cout << "Valid number." << endl;
+//
+//	}
+//	else {
+//
+//		cout << "Invalid number." << endl;
+//
+//	}
+//
+//	return 0;
+//
+//}
+
+//int main()
+//
+//{
+//
+//	int num;
+//
+//	cout << "enter a number: ";
+//
+//	cin >> num;
+//
+//	if (num > 100 || num < 30) {
+//
+//    cout << "valid number." << endl;
+//
+//	}
+//	else {
+//
+//    cout << "invalid number." << endl;
+//
+//	}
+//
+//	return 0;
+//
+
+//}
+
+//
+//int main() {
+//	for (int i = 0; i < 20; i++) {
+//		cout << "Vadims" << endl;
+//		
+//
+//	}cout << "i am done" << endl;
+//	return 0;
+//
+//}
+//
+
+//int main() {
+//	int i = 10;
+//	while (i > 0) {
+//		cout << i << endl
+//			;
+//		i--; 
+//	}
+//}
+
+int main()
+
+
+
+
