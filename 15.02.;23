@@ -1,0 +1,58 @@
+//#include <iostream>
+//using namespace std;
+//#include <string> 
+//int main() {
+//	string input;
+//	while (input != "stop") {
+//		cout << "Ievadiet datus ";
+//		cin >> input;
+//		cout << "Jusu dati" << input << endl;
+//
+//
+//
+//	}
+//	cout << "Programma ir beigusies." << endl;
+//	return 0;
+//
+//
+//
+//}
+
+//int main() {
+//	string parole = "robloxballs";
+//    string ievadi;
+//	int atlikuso_iespeju_skaits = 5;
+//	while (atlikuso_iespeju_skaits > 0) {
+//		cout << "Ievadiet paroli: ";
+//		cin >> ievadi;
+//		if (ievadi == parole) {
+//		cout << "Parole ir pareiza!" <<endl;
+//        break;
+//		}
+//		else {
+//	    cout << "Parole nav pareiza. Atlikuso iespeju skaits: " << atlikuso_iespeju_skaits - 1 <<endl;
+//
+//			atlikuso_iespeju_skaits--;
+//
+//		}
+//
+//	}
+//	if (atlikuso_iespeju_skaits == 0) {
+//		cout << "Atlikuso iespeju skaits ir beigusies" <<endl;
+//
+//	}
+//	return 0;
+//
+//}
+
+#include <iostream>
+using namespace std; 
+int main() {
+	int result = 1005;
+	while (result > 0) {
+		result -= 5;
+		cout << result << endl;
+	}
+	return 0;
+}
+
