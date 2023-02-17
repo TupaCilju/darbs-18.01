@@ -1,0 +1,75 @@
+  #include<iostream>
+#include<vector>
+
+using namespace std;
+int main()
+{	/*vector a{ 1,2,3,1,4 };	if (a[0] == 1)
+	{
+	cout << "Ir -1"<
+	}
+	if (a[1] == 1)
+	{
+	cout << "Ir-2" << endl;
+	}
+	if (a[2] == 1)
+	{
+	cout << "Ir-3" << endl;
+	}
+	if (a[3] == 1)
+	{
+	cout << "Ir-4" << endl;
+	}
+	if (a[4] == 1)
+	{
+	cout << "Ir-5" << endl;
+	}
+	if (a[0] == 4)
+	{
+	cout << "Ir-1" << endl;
+	}
+	if (a[1] == 4)
+	{
+	cout << "Ir-2" << endl;
+	}
+	if (a[2] == 4)
+	{
+	cout << "Ir-3" << endl;
+	}
+	if (a[3] == 4)
+	{
+	cout << "Ir-4" << endl;
+	}
+	if (a[4] == 4)
+	{
+	cout << "IR-5" << endl;*/
+
+	//}
+
+//	string c;
+//
+//	vector<string> a{ "+1","+44", "+86", "+91","+1","+61" };
+//	vector<string> b{ "USA","UK","China","India","Canada","Australia" };
+//	cout << "Valsts:";
+//	cin >> c;
+//	if (c == b[0]) {
+//		cout << a[0];
+//	}
+//	if (c == b[1]) {
+//		cout << a[1];
+//	}
+//	if (c == b[2]) {
+//		cout << a[2];
+//	}
+//	if (c == b[3]) {
+//	cout << a[3];
+//	}
+//	if (c == b[4]) {
+//		cout << a[4];
+//	}
+//	if (c == b[5]) {
+//		cout << a[5];
+//	}
+//
+//}
+	string c;
+vector <int>a{3,8,7,4 };
